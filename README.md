@@ -16,11 +16,10 @@
 
 ---
 
-I make sites and small tools people actually use. Quiet work, clear screens, no extra chrome.
 
 **Now**
-- [GN FinTrust](https://gnfintrust.github.io/) — finance education site
-- [aiwork](https://github.com/tipilek2020-ai/aiwork.github.io) — experiments
+- [GN FinTrust](https://gnfintrust.github.io/) 
+- [aiwork](https://github.com/tipilek2020-ai/aiwork.github.io) 
 
 ```
 the time is now.
